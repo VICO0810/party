@@ -1,9 +1,19 @@
 .Titulo1{
     background-color: tomato;
     font-size: 2rem;
-    color: rgb(231, 206, 231);
+    color: rgb(221, 156, 221);
     display: flex;
     justify-content: center;
     font-family: 'Lobster', cursive;
+}
+.Titulo2{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    background-color: rgb(212, 163, 212);
+    color: tomato; 
+}
+.Titulo3{
+    font-family: 'Reggae One', cursive;
+    color: indigo;
+    background-color:rgb(252, 184, 172);
 
 }
