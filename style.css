@@ -1,19 +1,35 @@
 .Titulo1{
     background-color: tomato;
     font-size: 2rem;
-    color: rgb(221, 156, 221);
+    color: rgb(236, 152, 236);
     display: flex;
     justify-content: center;
     font-family: 'Lobster', cursive;
 }
 .Titulo2{
     font-family: 'Edu VIC WA NT Beginner', cursive;
-    background-color: rgb(212, 163, 212);
+    background-color: rgb(218, 109, 218);
     color: tomato; 
+    display: flex;
+    justify-content: center;
+    
 }
 .Titulo3{
     font-family: 'Reggae One', cursive;
     color: indigo;
-    background-color:rgb(252, 184, 172);
 
+    
+    
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    color: rgb(22, 19, 165);
+    background-color: tomato;
+}
+
+body {
+    background-image: url(https://giffiles.alphacoders.com/349/34903.gif);
+    background-repeat: no-repeat;
+    background-position: right;
 }
