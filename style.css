@@ -33,3 +33,30 @@ body {
     background-repeat: no-repeat;
     background-position: right;
 }
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th{
+    background-color: rgb(255, 47, 193);
+    color: rgb(240, 232, 240);
+}
+.table td:hover{
+    background-color: rgb(43, 226, 217);
+    color: blue;
+}
+.table tr{
+    background-color: violet;
+    color: wheat;
+}
+caption{
+    font-family: 'Lobster', cursive;
+    font-size: 26px;
+}
+.table th:hover{
+    background-color: aqua;
+    color: blue;
+}
